@@ -1,5 +1,6 @@
 // Simple C++ program to display "Hello World" 
 //Author is Ryan <rockoverlord23@gmail.com>
+// Stinky Binky Skipped ahead before
   
 // Header file for input output functions 
 
