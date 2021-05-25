@@ -17,6 +17,7 @@ int main()
 { 
     // prints hello world 
     cout<<"GitBub Reborn hehe"; 
+	cout << "testing the merge!";
       
     return 0; 
 } 
